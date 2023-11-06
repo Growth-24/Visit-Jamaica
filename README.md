@@ -1,4 +1,14 @@
-# coc0c453a9e8d243ef4f8f522
+# Jamaica Vacation Recommendations
+
+Showing my favorite things to do when visiting Jamaica.
+
+# Author
+
+Wayne Myrie Jr
+
+# View project here: https://tourjamaica.netlify.app/
+
+# Tech Stack
 
 Quick start:
 
